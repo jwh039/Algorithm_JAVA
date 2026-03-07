@@ -1,4 +1,4 @@
-package Algorithm_JAVA.bruteforce.q1018;
+package bruteforce.q1018;
 
 import java.io.FileInputStream;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Algorithm_JAVA.BackTracking.q15649;
+package BackTracking.q15649;
 
 import java.util.Scanner;
 

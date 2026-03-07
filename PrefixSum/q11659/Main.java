@@ -1,4 +1,4 @@
-package Algorithm_JAVA.PrefixSum.q11659;
+package PrefixSum.q11659;
 
 import java.util.*;
 import java.io.*;
