@@ -1,4 +1,4 @@
-package bruteforce.q2468;
+package Bruteforce.q2468;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

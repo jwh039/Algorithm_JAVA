@@ -1,4 +1,4 @@
-package bruteforce.q28239;
+package Bruteforce.q28239;
 
 import java.util.Scanner;
 
