@@ -1,4 +1,4 @@
-package Bruteforce.q28245;
+package Baekjoon.Bruteforce.q28245;
 
 import java.util.Scanner;
 import java.util.ArrayList;

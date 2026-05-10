@@ -1,4 +1,4 @@
-package DP.q2133;
+package Baekjoon.DP.q2133;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package DP.q1309;
+package Baekjoon.DP.q1309;
 
 import java.io.*;
 import java.util.*;

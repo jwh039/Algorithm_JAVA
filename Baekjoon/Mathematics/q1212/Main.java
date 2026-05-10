@@ -1,4 +1,4 @@
-package Mathematics.q1212;
+package Baekjoon.Mathematics.q1212;
 
 import java.io.*;
 import java.util.*;

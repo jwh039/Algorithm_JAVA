@@ -1,4 +1,4 @@
-package Stack.q17299;
+package Baekjoon.Stack.q17299;
 
 import java.io.*;
 import java.util.*;

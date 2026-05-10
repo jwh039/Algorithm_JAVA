@@ -1,4 +1,4 @@
-package Bruteforce.q1018;
+package Baekjoon.Bruteforce.q1018;
 
 import java.io.FileInputStream;
 import java.util.Scanner;

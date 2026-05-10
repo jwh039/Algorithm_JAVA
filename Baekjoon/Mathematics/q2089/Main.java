@@ -1,4 +1,4 @@
-package Mathematics.q2089;
+package Baekjoon.Mathematics.q2089;
 
 import java.io.IOException;
 import java.util.Scanner;

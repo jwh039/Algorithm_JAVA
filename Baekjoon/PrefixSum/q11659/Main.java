@@ -1,4 +1,4 @@
-package PrefixSum.q11659;
+package Baekjoon.PrefixSum.q11659;
 
 import java.util.*;
 import java.io.*;
