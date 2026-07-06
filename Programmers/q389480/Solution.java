@@ -1,7 +1,6 @@
 package Programmers.q389480;
 
-import java.io.*;
-import java.util.*;
+// 완전범죄
 
 class Solution {
     public int solution(int[][] info, int n, int m) {

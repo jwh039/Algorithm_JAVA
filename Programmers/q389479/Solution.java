@@ -1,5 +1,7 @@
 package Programmers.q389479;
 
+// 서버 증설 횟수
+
 class Solution {
     public int solution(int[] players, int m, int k) {
         int[] servers = new int[24];
