@@ -2,7 +2,7 @@ package Programmers.q154540;
 
 import java.util.*;
 
-class Solution {
+class Solution_AI {
     int r, c;
     boolean[][] visited;
     int[] dx = {-1, 1, 0, 0};
