@@ -1,5 +1,7 @@
 package Programmers.q154540;
 
+// 무인도 여행
+
 import java.util.*;
 
 class Solution {

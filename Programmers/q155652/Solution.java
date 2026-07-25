@@ -1,5 +1,7 @@
 package Programmers.q155652;
 
+// 둘만의 암호
+
 import java.util.*;
 
 class Solution {

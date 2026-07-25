@@ -1,5 +1,7 @@
 package Programmers.q169198;
 
+// 당구 연습
+
 class Solution_AI {
     public int[] solution(int m, int n, int startX, int startY, int[][] balls) {
         int[] answer = new int[balls.length];

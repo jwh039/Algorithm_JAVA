@@ -1,5 +1,7 @@
 package Programmers.q468372;
 
+// 리프 노드 수 최대화
+
 import java.util.HashMap;
 
 class Solution_AI {

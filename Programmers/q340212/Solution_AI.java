@@ -1,5 +1,7 @@
 package Programmers.q340212;
 
+// 퍼즐 게임 챌린지
+
 public class Solution_AI {
     public int solution(int[] diffs, int[] times, long limit) {
         // 숙련도(level)의 최소와 최대 범위 설정

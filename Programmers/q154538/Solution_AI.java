@@ -1,5 +1,7 @@
 package Programmers.q154538;
 
+// 숫자 변환하기
+
 import java.util.*;
 
 class Solution_AI {

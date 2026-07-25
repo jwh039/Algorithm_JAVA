@@ -1,5 +1,7 @@
 package Programmers.q152996;
 
+// 시소 짝꿍
+
 import java.util.Arrays;
 
 class Solution_AI {
