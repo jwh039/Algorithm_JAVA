@@ -1,5 +1,7 @@
 package Programmers.q340211;
 
+// 충돌위험 찾기
+
 import java.util.*;
 
 class Solution {
