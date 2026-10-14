@@ -36,6 +36,7 @@ class Solution {
         return result;
     }
     
+    /*    
     // 'a' = 1
     private String num2spell(long num) {
         StringBuilder sb = new StringBuilder();
@@ -49,6 +50,19 @@ class Solution {
                 num /= 26;
                 sb.append((char)(val + (int)'a' - 1));
             }
+        }
+        sb.reverse();
+        return sb.toString();
+    }
+    */
+
+    // AI 리팩토링 코드
+    private String num2spell(long num) {
+        StringBuilder sb = new StringBuilder();
+        while (num > 0) {
+            num--; // 핵심: 1-indexed를 0-indexed 스타일로 보정
+            sb.append((char) ('a' + (num % 26)));
+            num /= 26;
         }
         sb.reverse();
         return sb.toString();
