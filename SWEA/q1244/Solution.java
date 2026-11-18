@@ -1,5 +1,7 @@
 package SWEA.q1244;
 
+// 최대 상금
+
 import java.util.Scanner;
 
 class Solution

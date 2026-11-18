@@ -1,5 +1,7 @@
 package SWEA.q5215;
 
+// 햄버거 다이어트
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;

@@ -1,5 +1,7 @@
 package SWEA.q5215;
 
+// 햄버거 다이어트
+
 import java.util.Scanner;
 
 class Solution
